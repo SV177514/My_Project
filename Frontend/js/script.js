@@ -4,7 +4,7 @@ console.log("3333");
 console.log(334);
 console.log('Hello' + 'world'); // конкатенация
 console.log('Hello' + ' world'); // конкатенация
-console.log('Hello ' + 'world'); // конкатенация
+console.log('Hello! ' + 'world'); // конкатенация
 console.log('Hello' + ' ' + 'world'); // конкатенация
 console.info('Hello');
 // alert('Hello');
